@@ -38,6 +38,13 @@ const data: ImageInGallery[] = [
   },
   {
     categoryId: CATEGORY_ID,
+    src: "/gallery/architecture/jiexiuliuli.jpg",
+    width: 540,
+    height: 540,
+    caption: "介休琉璃 - 山西",
+  },
+  {
+    categoryId: CATEGORY_ID,
     src: "/gallery/architecture/royal-palace-china.jpg",
     width: 537,
     height: 642,

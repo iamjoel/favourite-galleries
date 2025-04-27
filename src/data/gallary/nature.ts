@@ -20,6 +20,13 @@ const data: ImageInGallery[] = [
   },
   {
     categoryId: CATEGORY_ID,
+    src: "/gallery/nature/haitang.jpg",
+    width: 400,
+    height: 266,
+    caption: "海棠 - 天津",
+  },
+  {
+    categoryId: CATEGORY_ID,
     src: "/gallery/nature/sangsheng.jpg",
     width: 405,
     height: 540,
@@ -45,6 +52,13 @@ const data: ImageInGallery[] = [
     width: 853,
     height: 640,
     caption: "清水期的嵊泗",
+  },
+  {
+    categoryId: CATEGORY_ID,
+    src: "/gallery/nature/devil's-tears.jpg",
+    width: 853,
+    height: 640,
+    caption: "恶魔眼泪 - 印尼",
   },
   {
     categoryId: CATEGORY_ID,

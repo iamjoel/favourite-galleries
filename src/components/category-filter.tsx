@@ -13,7 +13,7 @@ export const CategoryFilter: React.FC<CategoryFilterProps> = ({
   onCategoryChange,
 }) => {
   return (
-    <div className="flex flex-wrap gap-4 mb-8">
+    <div className="flex flex-wrap gap-4 mb-3 md:mb-6 ml:mb-8">
       {categories.map((category) => (
         <button
           key={category.id}
