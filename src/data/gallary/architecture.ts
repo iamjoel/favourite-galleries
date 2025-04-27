@@ -38,6 +38,13 @@ const data: ImageInGallery[] = [
   },
   {
     categoryId: CATEGORY_ID,
+    src: "/gallery/architecture/royal-palace-china.jpg",
+    width: 537,
+    height: 642,
+    caption: "故宫",
+  },
+  {
+    categoryId: CATEGORY_ID,
     src: "/gallery/architecture/qiancao.jpg",
     width: 640,
     height: 853,
