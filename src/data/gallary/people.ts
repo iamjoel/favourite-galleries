@@ -3,21 +3,26 @@ const CATEGORY_ID = "people";
 const data: ImageInGallery[] = [
   {
     categoryId: CATEGORY_ID,
-    src: "https://c4.staticflickr.com/9/8887/28897124891_98c4fdd82b_b.jpg",
-    width: 320,
-    height: 320,
+    src: "/gallery/people/dudu-sea.jpg",
+    width: 768,
+    height: 576,
+    caption: "准备出海的男孩",
   },
   {
     categoryId: CATEGORY_ID,
-    src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
-    width: 320,
-    height: 212,
-    tags: [
-      { value: "Ocean", title: "Ocean" },
-      { value: "People", title: "People" },
-    ],
-    alt: "Boats (Jeshu John - designerspics.com)",
+    src: "/gallery/people/red-maple-woman.jpg",
+    width: 540,
+    height: 720,
+    caption: "枫叶祭",
   },
+  {
+    categoryId: CATEGORY_ID,
+    src: "/gallery/people/yueye.jpg",
+    width: 560,
+    height: 748,
+    caption: "月野もあ",
+  },
+
 ]
 
 export default data;

@@ -8,6 +8,10 @@ const categories: Category[] = [
   {
     id: 'people',
     name: '人物',
+  },
+  {
+    id: 'architecture',
+    name: '建筑',
   }
 ]
 
