@@ -17,6 +17,13 @@ const data: ImageInGallery[] = [
   },
   {
     categoryId: CATEGORY_ID,
+    src: "/gallery/architecture/flowerwall-suzhou-garden.jpg",
+    width: 540,
+    height: 720,
+    caption: "苏州园林 - 花窗",
+  },
+  {
+    categoryId: CATEGORY_ID,
     src: "/gallery/architecture/water.jpg",
     width: 540,
     height: 720,
@@ -27,7 +34,7 @@ const data: ImageInGallery[] = [
     src: "/gallery/architecture/feiniaoji-liangzhu.jpg",
     width: 853,
     height: 640,
-    caption: "飞鸟集",
+    caption: "飞鸟集 良渚",
   },
   {
     categoryId: CATEGORY_ID,

@@ -13,6 +13,13 @@ const data: ImageInGallery[] = [
   },
   {
     categoryId: CATEGORY_ID,
+    src: "/gallery/nature/shicheju2.jpg",
+    width: 560,
+    height: 747,
+    caption: "矢车菊",
+  },
+  {
+    categoryId: CATEGORY_ID,
     src: "/gallery/nature/qionghua.jpg",
     width: 540,
     height: 960,
@@ -24,6 +31,13 @@ const data: ImageInGallery[] = [
     width: 400,
     height: 266,
     caption: "海棠 - 天津",
+  },
+  {
+    categoryId: CATEGORY_ID,
+    src: "/gallery/nature/tree-with-colourful-plants.jpg",
+    width: 540,
+    height: 720,
+    caption: "彩色藤蔓的树",
   },
   {
     categoryId: CATEGORY_ID,
@@ -41,9 +55,16 @@ const data: ImageInGallery[] = [
   },
   {
     categoryId: CATEGORY_ID,
-    src: "/gallery/nature/sea-clear-sanye.jpg",
+    src: "/gallery/nature/sea-sanya.jpg",
     width: 853,
     height: 640,
+    caption: "三亚果冻海",
+  },
+  {
+    categoryId: CATEGORY_ID,
+    src: "/gallery/nature/sea-sanya2.jpg",
+    width: 960,
+    height: 540,
     caption: "三亚果冻海",
   },
   {
@@ -52,6 +73,20 @@ const data: ImageInGallery[] = [
     width: 853,
     height: 640,
     caption: "清水期的嵊泗",
+  },
+  {
+    categoryId: CATEGORY_ID,
+    src: "/gallery/nature/sunrise-shengsi.jpg",
+    width: 540,
+    height: 405,
+    caption: "嵊泗的日出",
+  },
+  {
+    categoryId: CATEGORY_ID,
+    src: "/gallery/nature/sunset-gongga.jpg",
+    width: 721,
+    height: 405,
+    caption: "贡嘎的日落金山",
   },
   {
     categoryId: CATEGORY_ID,
@@ -101,6 +136,13 @@ const data: ImageInGallery[] = [
     width: 960,
     height: 540,
     caption: "一只叫顶呱呱的兔子",
+  },
+  {
+    categoryId: CATEGORY_ID,
+    src: "/gallery/nature/huangtu-high.jpg",
+    width: 540,
+    height: 962,
+    caption: "黄土高原的纹理",
   },
 ]
 
