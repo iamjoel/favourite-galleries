@@ -102,13 +102,7 @@ const data: ImageInGallery[] = [
     height: 405,
     caption: "嵊泗的日出",
   },
-  {
-    categoryId: CATEGORY_ID,
-    src: "/gallery/nature/sunset-gongga.jpg",
-    width: 721,
-    height: 405,
-    caption: "贡嘎的日落金山",
-  },
+
   {
     categoryId: CATEGORY_ID,
     src: "/gallery/nature/devil's-tears.jpg",
@@ -137,6 +131,35 @@ const data: ImageInGallery[] = [
     height: 720,
     caption: "小樽运河2",
   },
+
+  {
+    categoryId: CATEGORY_ID,
+    src: "/gallery/nature/sunset-gongga.jpg",
+    width: 721,
+    height: 405,
+    caption: "贡嘎的日落金山",
+  },
+  {
+    categoryId: CATEGORY_ID,
+    src: "/gallery/nature/huangtu-high.jpg",
+    width: 540,
+    height: 962,
+    caption: "黄土高原的纹理",
+  },
+  {
+    categoryId: CATEGORY_ID,
+    src: "/gallery/nature/shamo.jpg",
+    width: 816,
+    height: 608,
+    caption: "沙漠 by JH Y",
+  },
+  {
+    categoryId: CATEGORY_ID,
+    src: "/gallery/nature/jiguang.jpg",
+    width: 1060,
+    height: 708,
+    caption: "冰岛的极光 by ",
+  },
   {
     categoryId: CATEGORY_ID,
     src: "/gallery/nature/panda-chengdu.jpg",
@@ -157,13 +180,6 @@ const data: ImageInGallery[] = [
     width: 960,
     height: 540,
     caption: "一只叫顶呱呱的兔子",
-  },
-  {
-    categoryId: CATEGORY_ID,
-    src: "/gallery/nature/huangtu-high.jpg",
-    width: 540,
-    height: 962,
-    caption: "黄土高原的纹理",
   },
 ]
 
