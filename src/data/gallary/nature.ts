@@ -3,6 +3,13 @@ const CATEGORY_ID = "nature";
 const data: ImageInGallery[] = [
   {
     categoryId: CATEGORY_ID,
+    src: "/gallery/nature/yueji.jpg",
+    width: 747,
+    height: 560,
+    caption: "果汁阳台月季",
+  },
+  {
+    categoryId: CATEGORY_ID,
     src: "/gallery/nature/shicheju.jpg",
     width: 750,
     height: 560,
@@ -20,6 +27,13 @@ const data: ImageInGallery[] = [
   },
   {
     categoryId: CATEGORY_ID,
+    src: "/gallery/nature/dujuan.jpg",
+    width: 405,
+    height: 608,
+    caption: "杜鹃/映山红",
+  },
+  {
+    categoryId: CATEGORY_ID,
     src: "/gallery/nature/qionghua.jpg",
     width: 540,
     height: 960,
@@ -31,6 +45,13 @@ const data: ImageInGallery[] = [
     width: 400,
     height: 266,
     caption: "海棠 - 天津",
+  },
+  {
+    categoryId: CATEGORY_ID,
+    src: "/gallery/nature/yingxin.jpg",
+    width: 540,
+    height: 360,
+    caption: "千年银杏 - 苏州相城",
   },
   {
     categoryId: CATEGORY_ID,

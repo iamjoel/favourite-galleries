@@ -13,12 +13,12 @@ export const CategoryFilter: React.FC<CategoryFilterProps> = ({
   onCategoryChange,
 }) => {
   return (
-    <div className="flex flex-wrap gap-4 mb-3 md:mb-6 ml:mb-8">
+    <div className="flex flex-wrap gap-3 mb-2 md:mb-6 ml:mb-8">
       {categories.map((category) => (
         <button
           key={category.id}
           onClick={() => onCategoryChange(category)}
-          className={`px-6 py-2 rounded-full transition-all duration-300 ${value.id === category.id
+          className={`px-4 py-2 rounded-full transition-all duration-300 ${value.id === category.id
             ? 'bg-black text-white'
             : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
             }`}
