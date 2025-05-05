@@ -34,6 +34,34 @@ const data: ImageInGallery[] = [
   },
   {
     categoryId: CATEGORY_ID,
+    src: "/gallery/nature/tanhua.jpg",
+    width: 1752,
+    height: 1168,
+    caption: "昙花 upslash@shotbyjf",
+  },
+  {
+    categoryId: CATEGORY_ID,
+    src: "/gallery/nature/hudielan.jpg",
+    width: 540,
+    height: 719,
+    caption: "蝴蝶兰",
+  },
+  {
+    categoryId: CATEGORY_ID,
+    src: "/gallery/nature/sanjiaomei.jpg",
+    width: 540,
+    height: 719,
+    caption: "三角梅 - 花像叶子",
+  },
+  {
+    categoryId: CATEGORY_ID,
+    src: "/gallery/nature/chuimoli.jpg",
+    width: 540,
+    height: 719,
+    caption: "垂茉莉",
+  },
+  {
+    categoryId: CATEGORY_ID,
     src: "/gallery/nature/qionghua.jpg",
     width: 540,
     height: 960,
@@ -41,10 +69,31 @@ const data: ImageInGallery[] = [
   },
   {
     categoryId: CATEGORY_ID,
+    src: "/gallery/nature/mihoutao-flower.jpg",
+    width: 560,
+    height: 747,
+    caption: "猕猴桃的花",
+  },
+  {
+    categoryId: CATEGORY_ID,
+    src: "/gallery/nature/mihoutao-leaf.jpg",
+    width: 560,
+    height: 747,
+    caption: "猕猴桃的心形状的叶",
+  },
+  {
+    categoryId: CATEGORY_ID,
     src: "/gallery/nature/haitang.jpg",
     width: 400,
     height: 266,
     caption: "海棠 - 天津",
+  },
+  {
+    categoryId: CATEGORY_ID,
+    src: "/gallery/nature/buyincao.jpg",
+    width: 707,
+    height: 646,
+    caption: "捕蝇草",
   },
   {
     categoryId: CATEGORY_ID,
@@ -102,7 +151,13 @@ const data: ImageInGallery[] = [
     height: 405,
     caption: "嵊泗的日出",
   },
-
+  {
+    categoryId: CATEGORY_ID,
+    src: "/gallery/nature/beach.jpg",
+    width: 768,
+    height: 1366,
+    caption: "upslash@sotti",
+  },
   {
     categoryId: CATEGORY_ID,
     src: "/gallery/nature/devil's-tears.jpg",

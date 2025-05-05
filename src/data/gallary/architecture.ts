@@ -3,6 +3,13 @@ const CATEGORY_ID = "architecture";
 const data: ImageInGallery[] = [
   {
     categoryId: CATEGORY_ID,
+    src: "/gallery/architecture/dengta-ss.jpg",
+    width: 639,
+    height: 853,
+    caption: "嵊泗的灯塔",
+  },
+  {
+    categoryId: CATEGORY_ID,
     src: "/gallery/architecture/museum-of-suzhou.jpg",
     width: 702,
     height: 526,
@@ -35,6 +42,13 @@ const data: ImageInGallery[] = [
     width: 853,
     height: 640,
     caption: "飞鸟集 良渚",
+  },
+  {
+    categoryId: CATEGORY_ID,
+    src: "/gallery/architecture/sufangzhou-dali.jpg",
+    width: 540,
+    height: 960,
+    caption: "素方舟 大理",
   },
   {
     categoryId: CATEGORY_ID,
