@@ -153,17 +153,17 @@ const data: ImageInGallery[] = [
   },
   {
     categoryId: CATEGORY_ID,
-    src: "/gallery/nature/beach.jpg",
-    width: 768,
-    height: 1366,
-    caption: "upslash@sotti",
-  },
-  {
-    categoryId: CATEGORY_ID,
     src: "/gallery/nature/devil's-tears.jpg",
     width: 853,
     height: 640,
     caption: "恶魔眼泪 - 印尼",
+  },
+  {
+    categoryId: CATEGORY_ID,
+    src: "/gallery/nature/beach.jpg",
+    width: 768,
+    height: 1366,
+    caption: "upslash@sotti",
   },
   {
     categoryId: CATEGORY_ID,
@@ -221,6 +221,13 @@ const data: ImageInGallery[] = [
     width: 640,
     height: 853,
     caption: "成都大熊猫繁育研究基地",
+  },
+  {
+    categoryId: CATEGORY_ID,
+    src: "/gallery/nature/qiuqiu.jpg",
+    width: 746,
+    height: 560,
+    caption: "球球",
   },
   {
     categoryId: CATEGORY_ID,

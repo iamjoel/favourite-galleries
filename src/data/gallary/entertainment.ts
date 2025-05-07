@@ -15,5 +15,12 @@ const data: ImageInGallery[] = [
     height: 1080,
     caption: "杀死比尔",
   },
+  {
+    categoryId: CATEGORY_ID,
+    src: "/gallery/entertainment/white-lotus.jpg",
+    width: 540,
+    height: 675,
+    caption: "白莲花度假村",
+  },
 ];
 export default data;
