@@ -125,6 +125,13 @@ const data: ImageInGallery[] = [
   },
   {
     categoryId: CATEGORY_ID,
+    src: "/gallery/nature/grass.jpg",
+    width: 853,
+    height: 640,
+    caption: "发芽",
+  },
+  {
+    categoryId: CATEGORY_ID,
     src: "/gallery/nature/sea-sanya.jpg",
     width: 853,
     height: 640,
@@ -242,6 +249,13 @@ const data: ImageInGallery[] = [
     width: 960,
     height: 540,
     caption: "一只叫顶呱呱的兔子",
+  },
+  {
+    categoryId: CATEGORY_ID,
+    src: "/gallery/nature/haitianyu.jpg",
+    width: 800,
+    height: 533,
+    caption: "海蛞蝓/海兔",
   },
 ]
 
