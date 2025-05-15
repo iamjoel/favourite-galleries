@@ -132,6 +132,13 @@ const data: ImageInGallery[] = [
   },
   {
     categoryId: CATEGORY_ID,
+    src: "/gallery/nature/yc-salt-river.jpg",
+    width: 540,
+    height: 720,
+    caption: "运城盐湖",
+  },
+  {
+    categoryId: CATEGORY_ID,
     src: "/gallery/nature/sea-sanya.jpg",
     width: 853,
     height: 640,
