@@ -76,6 +76,13 @@ const data: ImageInGallery[] = [
   },
   {
     categoryId: CATEGORY_ID,
+    src: "/gallery/nature/evgen.jpg",
+    width: 1152,
+    height: 768,
+    caption: "雪绒花 - 阿尔卑斯山",
+  },
+  {
+    categoryId: CATEGORY_ID,
     src: "/gallery/nature/mihoutao-leaf.jpg",
     width: 560,
     height: 747,
@@ -136,6 +143,13 @@ const data: ImageInGallery[] = [
     width: 540,
     height: 720,
     caption: "运城盐湖",
+  },
+  {
+    categoryId: CATEGORY_ID,
+    src: "/gallery/nature/yc-salt-river2.jpg",
+    width: 540,
+    height: 720,
+    caption: "运城盐湖2",
   },
   {
     categoryId: CATEGORY_ID,
