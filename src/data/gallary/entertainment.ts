@@ -22,5 +22,19 @@ const data: ImageInGallery[] = [
     height: 675,
     caption: "白莲花度假村",
   },
+  {
+    categoryId: CATEGORY_ID,
+    src: "/gallery/entertainment/black-mirror.jpeg",
+    width: 750,
+    height: 1111,
+    caption: "Black Mirror",
+  },
+  {
+    categoryId: CATEGORY_ID,
+    src: "/gallery/entertainment/love-death-art.jpg",
+    width: 206,
+    height: 305,
+    caption: "Love, Death & Robots",
+  },
 ];
 export default data;
