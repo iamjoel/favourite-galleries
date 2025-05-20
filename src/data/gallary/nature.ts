@@ -69,6 +69,13 @@ const data: ImageInGallery[] = [
   },
   {
     categoryId: CATEGORY_ID,
+    src: "/gallery/nature/wusehua.jpg",
+    width: 853,
+    height: 640,
+    caption: "五色花，马缨丹 - 有毒",
+  },
+  {
+    categoryId: CATEGORY_ID,
     src: "/gallery/nature/mihoutao-flower.jpg",
     width: 560,
     height: 747,
@@ -129,6 +136,13 @@ const data: ImageInGallery[] = [
     width: 768,
     height: 576,
     caption: "金边胡颓子",
+  },
+  {
+    categoryId: CATEGORY_ID,
+    src: "/gallery/nature/shanhuling.jpg",
+    width: 853,
+    height: 640,
+    caption: "珊瑚铃",
   },
   {
     categoryId: CATEGORY_ID,
@@ -214,13 +228,19 @@ const data: ImageInGallery[] = [
     height: 720,
     caption: "小樽运河2",
   },
-
   {
     categoryId: CATEGORY_ID,
     src: "/gallery/nature/sunset-gongga.jpg",
     width: 721,
     height: 405,
     caption: "贡嘎的日落金山",
+  },
+  {
+    categoryId: CATEGORY_ID,
+    src: "/gallery/nature/zy-colorful-shan.jpg",
+    width: 540,
+    height: 720,
+    caption: "张掖七彩丹霞",
   },
   {
     categoryId: CATEGORY_ID,
