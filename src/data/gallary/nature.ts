@@ -165,6 +165,7 @@ const data: ImageInGallery[] = [
     height: 720,
     caption: "运城盐湖2",
   },
+
   {
     categoryId: CATEGORY_ID,
     src: "/gallery/nature/sea-sanya.jpg",
@@ -178,6 +179,13 @@ const data: ImageInGallery[] = [
     width: 960,
     height: 540,
     caption: "三亚果冻海",
+  },
+  {
+    categoryId: CATEGORY_ID,
+    src: "/gallery/nature/daxidi.jpg",
+    width: 507,
+    height: 675,
+    caption: "大溪地",
   },
   {
     categoryId: CATEGORY_ID,
