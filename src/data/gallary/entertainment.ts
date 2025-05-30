@@ -36,5 +36,12 @@ const data: ImageInGallery[] = [
     height: 305,
     caption: "Love, Death & Robots",
   },
+  {
+    categoryId: CATEGORY_ID,
+    src: "/gallery/entertainment/unreal.webp",
+    width: 540,
+    height: 800,
+    caption: "Unreal 镜花水月。综艺的本质。",
+  },
 ];
 export default data;
